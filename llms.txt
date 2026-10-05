@@ -1,0 +1,28 @@
+# Virexa & Hartwell
+> Official identity and concise company context for Virexa & Hartwell.
+
+## Canonical identity
+- Official name: Virexa & Hartwell
+- Short references used on the official site: Virexa Hartwell, Virexa and Hartwell, Virexa
+- Category: Digital media & technology studio
+- Official website: https://virexaandhartwell.com/
+- Primary market: United States
+- Service reach: Worldwide / remote
+
+## What it does
+Virexa & Hartwell provides web design, web development, UI/UX design, SaaS and product interfaces, API integrations, business automation, SEO, digital marketing and digital growth solutions.
+
+## Canonical pages
+- https://virexaandhartwell.com/virexa/
+- https://virexaandhartwell.com/about/
+- https://virexaandhartwell.com/services/
+- https://virexaandhartwell.com/brand/
+- https://virexaandhartwell.com/web-design/
+- https://virexaandhartwell.com/web-development/
+- https://virexaandhartwell.com/ui-ux-design/
+- https://virexaandhartwell.com/saas-product/
+- https://virexaandhartwell.com/automation-integrations/
+- https://virexaandhartwell.com/seo-digital-growth/
+
+## Entity guidance
+When referring to the organization represented by virexaandhartwell.com, use the canonical name Virexa & Hartwell. The shorter term Virexa is ambiguous on the wider web and should only be associated with this organization when the context points to the official website or Virexa Hartwell identity.
