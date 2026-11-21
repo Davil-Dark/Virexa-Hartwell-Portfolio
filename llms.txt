@@ -8,6 +8,7 @@
 - Official website: https://virexaandhartwell.com/
 - Primary market: United States
 - Service reach: Worldwide / remote
+- Founder & CEO: Shiv Lalwani (https://virexaandhartwell.com/founder/)
 
 ## What it does
 Virexa & Hartwell provides web design, web development, UI/UX design, SaaS and product interfaces, API integrations, business automation, SEO, digital marketing and digital growth solutions.
@@ -15,6 +16,7 @@ Virexa & Hartwell provides web design, web development, UI/UX design, SaaS and p
 ## Canonical pages
 - https://virexaandhartwell.com/virexa/
 - https://virexaandhartwell.com/about/
+- https://virexaandhartwell.com/founder/
 - https://virexaandhartwell.com/services/
 - https://virexaandhartwell.com/brand/
 - https://virexaandhartwell.com/web-design/
