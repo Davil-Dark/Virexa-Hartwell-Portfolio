@@ -5,6 +5,7 @@
 - Official website: https://virexaandhartwell.com/
 - Primary market: United States
 - Service reach: Worldwide / remote
+- Owner, Founder & CEO: [Shiv Lalwani](https://virexaandhartwell.com/founder/)
 - Official identity page: https://virexaandhartwell.com/virexa/
 - Brand profile: https://virexaandhartwell.com/brand/
 
